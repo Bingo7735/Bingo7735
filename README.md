@@ -1,69 +1,79 @@
 ### Hi there, I'm Bingo7735 👋
-#### Senior Full Stack Software Engineer | SaaS Architect
+#### Senior Full Stack Software Engineer | AI & SaaS Architect
 
-I specialize in architecting scalable SaaS solutions and optimizing full-stack performance. My passion lies in dissecting modern frameworks to build robust, production-ready applications.
+I am a seasoned software engineer with extensive experience in **architecting scalable systems, integrating AI/ML models into production, and optimizing enterprise-level CI/CD pipelines.** My expertise spans from high-frequency trading platforms to multimodal deep learning models for media giants.
 
-Currently, I am conducting an **in-depth architectural analysis** on various industry-standard boilerplates and design patterns. These projects are maintained in **Private Repositories** to facilitate proprietary research and customization.
+Currently, I maintain a collection of **Private Repositories** conducting deep architectural analysis on modern boilerplates, alongside my commercial work.
 
 ---
 
-### 🛠️ Tech Stack & Tools
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+### 🛠️ Tech Stack & Proficiency
+**Languages**
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+**Backend & DevOps**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+**AI & Data**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 ---
 
-### 🔒 Proprietary Research & Architectural Analysis
-I actively maintain a curated collection of private repositories to study high-performance SaaS architectures. My focus includes **Authentication flows, Subscription logic (Stripe), Monorepo structures, and Serverless patterns.**
+### 🚀 Key Projects & Professional Experience
 
-#### ⚛️ Next.js & React Ecosystem (Modern SaaS)
-*Advanced research into Server Side Rendering (SSR), Edge Functions, and modern React patterns.*
-- 🔒 **SaaS-Boilerplate** (2021 Legacy Analysis) - *Enterprise-grade Next.js architecture study.*
-- 🔒 **saas-boilerplate** (Apptension) - *AWS serverless stack integration.*
-- 🔒 **turbo** - *High-performance Monorepo build system analysis.*
-- 🔒 **play-nextjs** - *Next.js 14+ features and server actions.*
-- 🔒 **next-saas-stripe-starter** - *End-to-end subscription payment flows.*
-- 🔒 **next-supabase-stripe-starter** - *BaaS (Backend as a Service) integration patterns.*
-- 🔒 **Personal-Diary-with-Next-js** - *CRUD optimization techniques.*
-- 🔒 **TaskTrackr-NextJs13** - *App Router & RSC implementation.*
-- 🔒 **subscription-payments** - *Official Next.js commerce patterns.*
-- 🔒 **yt-stripe-nextjs-supabase** - *Video platform monetization logic.*
+#### 🤖 Artificial Intelligence & Machine Learning
+- **Multimodal Activity Detection (Partnered with PyTorch/Disney):** Developed a deep learning model (MMFTransformer) for activity classification in media content. Scaled training to **512 TPU Pods** and increased accuracy by 13%, meeting Disney's production standards.
+- **GE Healthcare Tube Watch:** Engineered a predictive monitoring solution for CT scanners using AI/ML to predict component failure, minimizing downtime.
+- **Generative AI Recruiting Assistant:** Built a GenAI product to streamline HR workflows, generating job descriptions and automating candidate FAQs.
+- **IoT Security (Neural Networks):** Proposed and implemented a multi-layered perceptron neural network with RBF neurons using **Go** for IoT intrusion detection.
 
-#### 🐍 Python & Django Stack
-*Analyzing robust backend structures and API design patterns.*
-- 🔒 **django-react-boilerplate** (Saasitive) - *JWT Authentication & React integration.*
-- 🔒 **django-react-boilerplate** (Vinta) - *Scalable Django REST Framework setups.*
-- 🔒 **Django-SAAS-Boilerplate** - *Multi-tenancy architecture research.*
-- 🔒 **django-saas-boilerplate** - *Production-ready Python backend configurations.*
+#### ⛓️ Blockchain & Web3
+- **GameStop NFT Marketplace:** Led the consulting engineering team to integrate Immutable X blockchain and Loopring. Utilized **Node.js, NestJS, and Kubernetes**, accelerating the release timeline from 12 months to **6 months**.
 
-#### ☕ Java & Spring Boot
-*Enterprise-level backend security and microservices research.*
-- 🔒 **spring-boot-react-typescript-full-stack** - *Type-safe full stack development.*
+#### 🏭 Enterprise Scale & DevOps (.NET / C#)
+- **Large-scale CI System Optimization:** Optimized a build system for a legacy codebase (14M lines of C#/C++). Reduced build time from 10 hours to **1 hour** by re-engineering the CI pipeline using Python, PowerShell, and Jenkins, serving 200+ developers.
 
-#### 🛠️ Productivity & Specialized Tools
-*Researching niche SaaS functionalities and UI/UX flows.*
-- 🔒 **saasgear** - *Opinionated SaaS launchers.*
-- 🔒 **SaaSLaunchpad** - *Rapid MVP development strategies.*
-- 🔒 **Hikari** - *Modern UI component integration.*
-- 🔒 **fire-saas** - *Firebase-first architecture.*
-- 🔒 **Productivity-Full-Stack** - *Task management logic.*
-- 🔒 **diary-app** - *Secure data storage patterns.*
-- 🔒 **flowapp** - *Workflow automation logic.*
-- 🔒 **open-saas** (Wasp-lang) - *DSL-based web app development.*
-- 🔒 **Indiesaas** - *Bootstrapped founder toolkits.*
-- 🔒 **saas-starter-kit** (BoxyHQ) - *Enterprise SSO & Jackson integration.*
-- 🔒 **fireact** - *React & Firebase extensive boilerplate.*
+#### 🌐 SaaS & Web Platforms
+- **RemoteRetro (Elixir/Phoenix):** Oversaw technical development for an Agile retrospective tool used by hundreds of companies globally. Stack: Elixir, Phoenix, React, Redux.
+- **The First Creddot (Node.js):** Co-founded a financial forecasting suite predicting company performance up to 20 years using qualitative analysis and market indicators.
+- **Marketing Call Handling (PHP/Laravel):** Designed a high-availability microservice handling millions of webhook requests from Twilio/Plivo with **99% uptime SLA**.
+- **Xempus Manager (Ruby/Vue.js):** Led the migration of a pension fund management platform from React to **Vue.js**, delivering on strict deadlines in a T-shaped Agile team.
+- **Keyword.com (Tech Lead):** Modernized a legacy SEO rank tracker application to improve maintainability and UX.
 
-#### 📚 Curated Knowledge Bases
-- 🔒 **awesome-saas-boilerplates-and-starter-kits**
-- 🔒 **awesome-opensource-boilerplates**
+#### 🏆 Sports Tech & Real-time Systems
+- **Competition Hosting Platforms (Angular/Spring Boot):** Built the official system for the Finnish Gymnastics Federation (Kisanet), handling real-time scoring for 200+ annual events.
+- **Virtual Competition Platform (React/WebSockets):** Developed a video-on-demand and live-streaming solution during COVID-19 lockdowns, facilitating over 100 virtual competitions.
+
+---
+
+### 🔒 Private Research & Architectural Analysis
+I actively maintain a curated collection of **private repositories** to study high-performance SaaS architectures and boilerplates. My focus includes **Authentication flows, Stripe integrations, Monorepo structures, and Serverless patterns.**
+
+#### 📂 Current Research Focus (Private Repos)
+- 🔒 **SaaS-Boilerplate** - *Next.js & AWS Serverless patterns*
+- 🔒 **django-react-boilerplate** - *Full-stack Python integration*
+- 🔒 **turbo** - *High-performance Monorepo build systems*
+- 🔒 **fire-saas** - *Firebase-first architecture study*
+- 🔒 **spring-boot-react-typescript** - *Type-safe enterprise stacks*
+*(And 25+ other architectural templates)*
 
 ---
 
